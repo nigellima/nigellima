@@ -15,7 +15,8 @@ You can use the website to generate badges: https://shields.io/
 **About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif" />
+<!-- <img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif" /> -->
+<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
 - 👨🏽‍💻 I’m currently working remotely at [Gistia Healthcare](https://www.gistia.com/), a software and consultancy engineering company specialized in healthcare systems :us:
 - 📫 How to reach me: nigelnaiguel.comp@gmail.com;
