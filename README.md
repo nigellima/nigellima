@@ -45,8 +45,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 </p>
 
-***Additional:*** Postgres, MongoDB, Redux, Laravel, OpenCV, C/C++, Echarts, Nivo, Google Charts, etc.
-
 :newspaper: **My main published articles:**
 
 - [Clinical Exam of Knee-osteoarthritis with Augmented Reality](https://portaldeconteudo.sbc.org.br/index.php/sbcas/article/view/3684). Published at The Brazilian Computer Society magazine, 2018;
